@@ -8,6 +8,6 @@ Este projeto utiliza a biblioteca [MindAR](https://hiukim.github.io/mind-ar-js-d
 
 <img src="/demos/potti_escrita.gif" width="300">
 
-<img src="/demos/clarisse.gif" width="600">
+<img src="/demos/clarisse.gif" width="300">
 
 
