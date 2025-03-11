@@ -1,6 +1,6 @@
-#More Demos
+# More Demos
 
-##Quadro
+## Quadro
 
 Uso de quadros para apresentar informações sobre figuras históricas da computação
 
@@ -9,7 +9,7 @@ Uso de quadros para apresentar informações sobre figuras históricas da comput
 
 <img src="/demos/quadros.gif" width="300">
 
-##Mural A História da Tecnologia - Poty Lazzarotto 
+## Mural A História da Tecnologia - Poty Lazzarotto 
 
 Testes conduzidos para estudar a viabilidade do uso do mural de Poty Lazzarotto, "A História da Tecnologia".
 
@@ -22,7 +22,7 @@ Testes conduzidos para estudar a viabilidade do uso do mural de Poty Lazzarotto,
 <img src="/demos/potti_escrita.gif" width="300">
 
 
-##Cartaz 'Notable Women in Computing'
+## Cartaz 'Notable Women in Computing'
 
 Testes conduzidos para estudar a viabilidade do uso do cartaz 'Notable Women in Computing'.
 
