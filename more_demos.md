@@ -4,7 +4,8 @@
 
 Uso de quadros para apresentar informações sobre figuras históricas da computação
 
-(!Quadros)[/quadros.html]
+
+[Código fonte da interação de Quadros](/quadros.html)
 
 <img src="/demos/quadros.gif" width="300">
 
@@ -12,7 +13,8 @@ Uso de quadros para apresentar informações sobre figuras históricas da comput
 
 Testes conduzidos para estudar a viabilidade do uso do mural de Poty Lazzarotto, "A História da Tecnologia".
 
-(!Potti Energia Nuclear)[/exemplo_potti.html]
+[Código fonte da interação com mural de Poty](/exemplo_potti.html)
+
 
 <img src="/demos/potti_nuke.gif" width="300">
 
@@ -24,7 +26,8 @@ Testes conduzidos para estudar a viabilidade do uso do mural de Poty Lazzarotto,
 
 Testes conduzidos para estudar a viabilidade do uso do cartaz 'Notable Women in Computing'.
 
-(!Notable Women in Computing)[/exemplo_simples_clarisse.html]
+
+[Código fonte da interação com Notable Women in Computing](/exemplo_simples_clarisse.html)
 
 <img src="/demos/clarisse.gif" width="300">
 
